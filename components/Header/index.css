@@ -1,0 +1,12 @@
+.nav-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #f1f5f9;
+}
+
+.header-image {
+  width: 250px;
+  height: 80px;
+  padding-left: 30px;
+  padding: 10px;
+}
